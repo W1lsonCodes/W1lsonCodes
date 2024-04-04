@@ -8,7 +8,7 @@ I've been learning to code for a few months. I currently work full time looking 
 
 * 🌍  I'm based in London
 * 🖥️  See my portfolio at [My Site](#)
-* ✉️  You can contact me at [SOON](mailto:#
+* ✉️  You can contact me at [SOON](mailto:#)
 * 🤝  I'm open to collaborating on Front End Projects
 
 ### Skills
