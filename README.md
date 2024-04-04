@@ -7,8 +7,8 @@ Self-Teaching Front End Developer
 I've been learning to code for a few months. I currently work full time looking to change my life.
 
 * 🌍  I'm based in London
-* 🖥️  See my portfolio at [My Site](http://www.simonwilson.dev)
-* ✉️  You can contact me at [hello@simonwilson.dev](mailto:hello@simonwilson.dev)
+* 🖥️  See my portfolio at [My Site](#)
+* ✉️  You can contact me at [SOON](mailto:#
 * 🤝  I'm open to collaborating on Front End Projects
 
 ### Skills
